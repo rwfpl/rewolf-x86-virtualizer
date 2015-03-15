@@ -1,17 +1,20 @@
+```
 --------------------------------------------------------------------------------
 Name....: x86 Virtualizer - source code
 Author..: ReWolf
 Date....: IV/V.2007
 Rel.Date: VIII.2007
 
-
 e.mail..: rewolf@rewolf.pl
-www.....: http://rewolf.pl
+www.....: http://blog.rewolf.pl
 --------------------------------------------------------------------------------
+```
+Simple PE protector (x86) based on virtual machine.
 
-Finally  source code  is available for  anyone interested. It  is licensed under
-GNU General Public License (see gpl.txt).
-
+#### **Principle of operation:** ####
+![http://rewolf.pl/gfx/custom/x86.virt.before.gif](http://rewolf.pl/gfx/custom/x86.virt.before.gif)
+![http://rewolf.pl/gfx/custom/x86.virt.after.gif](http://rewolf.pl/gfx/custom/x86.virt.after.gif)
+```
 --------------------------------------------------------------------------------
 
 This product includes Length Dissasembler engine:
@@ -48,3 +51,9 @@ Files:
 \src\test_app\resource.h           - header for above
 
 --------------------------------------------------------------------------------
+```
+#### **Related links:** ####
+  * http://blog.rewolf.pl/blog/?p=15
+  * http://blog.rewolf.pl/blog/?p=22
+  * http://rewolf.pl/stuff/x86.virt.pdf
+  * http://rewolf.pl
